@@ -1,0 +1,20 @@
+statement="we have to remember always one thing that is Old is Gold"
+name="shantanu"
+#
+print(len(statement))
+print(len(name))
+#
+print(statement.endswith("we"))
+print(name.endswith("nu"))
+#
+print(statement.count("n"))
+print(name.count("n"))
+#
+print(statement.capitalize())
+print(name.capitalize())
+#
+print(statement.find("have"))
+print(name.find("n"))
+#
+print(statement.replace("we","I"))
+print(name.replace("n","m"))

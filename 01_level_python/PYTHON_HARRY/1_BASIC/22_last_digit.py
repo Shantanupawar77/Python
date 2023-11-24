@@ -1,0 +1,8 @@
+hr1=int(input())
+m1=int(input())
+s1=int(input())
+hr2=int(input())
+m2=int(input())
+s2=int(input())
+a=((hr2-hr1)*3600)+((m2-m1)*60)+(s2-s1)
+print(a)
